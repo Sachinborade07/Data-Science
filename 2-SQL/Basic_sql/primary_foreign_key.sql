@@ -1,0 +1,8 @@
+-- PRIMARY KEY -- FOREIGN KEY
+
+
+
+
+
+
+
